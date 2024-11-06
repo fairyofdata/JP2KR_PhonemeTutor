@@ -4,7 +4,7 @@ Alert: This is Ongoing Project
 
 
 
-# **Korean Pronunciation Correction for Japanese Native Speakers**
+# **Phoneme-based Korean Pronunciation Correction for Japanese Native Speakers**
 [![영상 제목](https://img.youtube.com/vi/4SwwmzEcpZQ/0.jpg)](https://youtu.be/4SwwmzEcpZQ)<br>
 A project focused on building a **pronunciation correction system** for Japanese native speakers learning Korean, using Whisper and Wav2Vec 2.0 for analyzing intended and actual pronunciation. The system identifies pronunciation errors and provides targeted feedback to help improve Korean pronunciation effectively.
 
