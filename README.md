@@ -1,5 +1,7 @@
 Alert: This is Ongoing Project
 
+[Project Prototype Planning](https://fairydata.notion.site/49b72350b1074fb094e0ec792cff7d59?pvs=4)
+
 # **Korean Pronunciation Correction for Japanese Native Speakers**
 
 A project focused on building a **pronunciation correction system** for Japanese native speakers learning Korean, using Whisper and Wav2Vec 2.0 for analyzing intended and actual pronunciation. The system identifies pronunciation errors and provides targeted feedback to help improve Korean pronunciation effectively.
