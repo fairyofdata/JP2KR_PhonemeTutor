@@ -22,14 +22,19 @@ A project focused on building a **pronunciation correction system** for Japanese
 
 ---
 
+Notion 페이지 내용을 기반으로, **일본 내 한국어 학습 수요 증가**와 **한국어 발음 교육의 필요성**을 프로젝트 개요에 추가하면 좋겠습니다. 이 정보를 포함해 아래 **README**의 `Overview`와 `Features`에 추가하는 방식으로 작성해 드리겠습니다:
+
+---
+
 ### **Overview**
 
-This project addresses the challenge of accurately detecting and correcting Korean pronunciation errors by Japanese native speakers. By combining **Whisper** to determine the intended pronunciation and **Wav2Vec 2.0** to analyze the actual phonetic output, the system effectively identifies discrepancies and provides feedback. Additionally, **language detection** is used for handling code-switching between Korean and Japanese, ensuring high accuracy in mixed-language conversations.
+This project addresses the growing demand for Korean language education among Japanese native speakers. As the number of Japanese learners of Korean continues to rise, accurate pronunciation remains a significant challenge, with limited resources tailored to Japanese speakers. This project combines **Whisper** and **Wav2Vec 2.0** to build an effective pronunciation correction system. Whisper determines the intended pronunciation, while Wav2Vec 2.0 analyzes the actual phonetic output, effectively identifying discrepancies and providing feedback. Additionally, **language detection** is used to handle code-switching between Korean and Japanese, ensuring high accuracy in mixed-language conversations.
 
 ### **Features**
 
+- **Market Demand-Driven Solution**: Responds to the rapid growth of Korean learners in Japan, where existing resources often lack focus on pronunciation training.
 - **Error Detection**: Detects specific pronunciation errors by comparing intended versus actual phonemes.
-- **Targeted Feedback**: Provides corrective suggestions for Japanese speakers learning Korean.
+- **Targeted Feedback**: Provides corrective suggestions designed for Japanese speakers learning Korean.
 - **Language Detection**: Handles code-switching (混合言語), making it compatible with conversations that switch between Korean and Japanese.
 - **User-Friendly Interface**: Accessible via a web interface built with Streamlit.
 
