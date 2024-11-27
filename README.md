@@ -40,8 +40,8 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/project-repo.git
-   cd project-repo
+   git clone https://github.com/fairyofdata/JP2KR_PhonemeTutor
+   cd fairyofdata/JP2KR_PhonemeTutor
    ```
 
 2. **Install Required Packages**:
