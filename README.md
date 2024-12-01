@@ -1,4 +1,4 @@
-⚠️Alert: This is Ongoing Project (Planning Level)
+⚠️ *Alert: This is Ongoing Project (Planning Level)*
 
 [Project Prototype Planning](https://fairydata.notion.site/49b72350b1074fb094e0ec792cff7d59?pvs=4)
 
